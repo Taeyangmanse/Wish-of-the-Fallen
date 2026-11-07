@@ -1,0 +1,16 @@
+{
+    "name": "WorldMap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:95a77b2ba4e8f8d42b5fad5a4e267476"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
